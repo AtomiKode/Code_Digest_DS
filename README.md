@@ -1,2 +1,2 @@
 # Code_Digest_DS
-A repo to be used as a reference for variety of Data Science projects
+This is a compilation of code snippets from various sources for the purpose of reference.
